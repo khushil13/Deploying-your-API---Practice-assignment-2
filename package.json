@@ -5,6 +5,13 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.18.2"
-  }
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "description": "Learn how to:\r - Configure applications to return data based on environment variables.\r - Manage different environments effectively in full-stack development.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
